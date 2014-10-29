@@ -2,7 +2,7 @@
 	This sample publishes a message to an Amazon SNS target (topic or endpoint).
 */
 
-#include "AmazonSNSClient/application.h"
+#include "application.h"
 #include "AmazonSNSClient/AmazonSNSClient.h"
 #include "AmazonSNSClient/SparkAWSImplementations.h"
 #include "AmazonSNSClient/AWSFoundationalTypes.h"
