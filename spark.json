@@ -1,0 +1,7 @@
+{
+    "name": "AmazonSNSClient",
+    "version": "0.0.1",
+    "author": "Amit Sharma <amitksh@yahoo.com>",
+    "license": "Choose a license",
+    "description": "Amazon SNS Client for Spark Core."
+}
