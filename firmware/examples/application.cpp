@@ -2,11 +2,11 @@
 	This sample publishes a message to an Amazon SNS target (topic or endpoint).
 */
 
-#include "application.h"
-#include "AmazonSNSClient.h"
-#include "SparkAWSImplementations.h"
-#include "AWSFoundationalTypes.h"
-#include "keys.h"
+#include "AmazonSNSClient/application.h"
+#include "AmazonSNSClient/AmazonSNSClient.h"
+#include "AmazonSNSClient/SparkAWSImplementations.h"
+#include "AmazonSNSClient/AWSFoundationalTypes.h"
+#include "AmazonSNSClient/keys.h"
 
 /* Constants for connecting to Amazon SNS. */
 static const char* TARGET_ARN = "SNSTopicARN";  // replace each ':' with '%3A'
