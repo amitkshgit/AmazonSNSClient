@@ -1,7 +1,7 @@
 #ifndef AMAZONDYNAMODBCLIENT_H_
 #define AMAZONDYNAMODBCLIENT_H_
 #include "AWSFoundationalTypes.h"
-#include "AWSClient.h"
+#include "AWSClient2.h"
 
 enum ReturnValue{
     NONE_RETURNVALUE,
